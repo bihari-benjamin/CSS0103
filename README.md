@@ -17,3 +17,6 @@
 6. Az első bekezdésben: Az egész első bekezdés háttérszíne legyen: aqua.
 7. A második bekezdés: Az egész bekezdés háttérszíne legyen: antiquewhite.
 8. A második bekezdés: Az első mondatban a „Boncompagni-Ludovisi” szöveg legyen félkövér.
+
+## Fájlok:
+![Minta](feladat_0103_minta.png)
